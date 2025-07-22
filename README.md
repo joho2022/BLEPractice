@@ -9,6 +9,10 @@
     </tr>
 </table>
 
+[학습정리 블로그](https://joho.tistory.com/59)
+
+<br>
+
 
 # 요구 사항
 - `Xcode 16.0+`
